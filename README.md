@@ -14,5 +14,5 @@ useful references for learning shader code
 * [Evvvvil_](https://www.twitch.tv/evvvvil_)
 * [Shadertoy](https://www.shadertoy.com/)
 
-# (Extra) C++ Graphics
+### (Extra) C++ Graphics
 [tiny* courses by ssloy](https://github.com/ssloy)
